@@ -1,5 +1,3 @@
-# Created By 
-**Youssef El-Shabasy, Software Engineering Student level 3**
 # Start The Application
 **By Runing `app.py file`**
 # Addition And Subtraction Operations
